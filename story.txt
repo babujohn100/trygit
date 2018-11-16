@@ -3,7 +3,6 @@ hi she is my dear
 
 hsahkfkj
 fjdhhkfjld
-<<<<<<< HEAD
 hasjhkj
 
 hi
@@ -17,6 +16,3 @@ fkkjllklk;
 hdshhkjkll
 
 djhkjkjl
-=======
-hasjhkj
->>>>>>> parent of 68efb71... cas
